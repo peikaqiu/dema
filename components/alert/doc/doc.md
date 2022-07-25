@@ -1,19 +1,19 @@
 <script setup>
-// import demo1 from './demo1.vue';
-// import demo2 from './demo2.vue';
-// import demo3 from './demo3.vue';
-// import demo4 from './demo4.vue';
-// import demo5 from './demo5.vue';
-// import demo6 from './demo6.vue';
-// import demo7 from './demo7.vue';
+import demo1 from './demo1.vue';
+import demo2 from './demo2.vue';
+import demo3 from './demo3.vue';
+import demo4 from './demo4.vue';
+import demo5 from './demo5.vue';
+import demo6 from './demo6.vue';
+import demo7 from './demo7.vue';
 
 </script>
 
 # Alert 警告
 
-#### 用于页面中展示重要的提示信息
+#### 用于页面中展示重要的提示信息1
 
-<!-- <br/>
+<br/>
 
 ## 基本用法
 #### Alert 组件不属于浮层元素，不会自动消失或关闭。Alert 组件提供四种主题，由type属性指定，默认值为info
@@ -89,4 +89,4 @@
 |---------- |-------- |---------- |
 | close     | 关闭alert时触发的事件 | — |
 
-<br/> -->
+<br/>
