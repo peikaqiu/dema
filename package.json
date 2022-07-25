@@ -1,0 +1,34 @@
+{
+  "name": "dema",
+  "author": {
+    "name": "hgh",
+    "email": "1006676534@qq.com"
+  },
+  "private": false,
+  "version": "0.0.7",
+  "description": "dema",
+  "main": "lib/dema.umd.js",
+  "module": "./lib/dema.es.js",
+  "files": [
+    "lib/*"
+  ],
+  "scripts": {
+    "dev": "vite --config ./build/base.config.js",
+    "build:lib": "vite build --config ./build/lib.config.js",
+    "build:docs": "vite build --config ./build/docs.config.js && node ./config/copyDocs.js",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "highlight.js": "^11.6.0",
+    "vite-plugin-md": "^0.19.11",
+    "vue": "^3.2.37",
+    "vue-router": "^4.1.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.0",
+    "copy-dir": "^1.3.0",
+    "sass": "^1.53.0",
+    "sass-loader": "^13.0.2",
+    "vite": "^3.0.0"
+  }
+}
