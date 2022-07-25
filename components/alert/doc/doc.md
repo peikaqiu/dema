@@ -1,11 +1,11 @@
 <script setup>
 import demo1 from './demo1.vue';
-import demo2 from './demo2.vue';
-import demo3 from './demo3.vue';
-import demo4 from './demo4.vue';
-import demo5 from './demo5.vue';
-import demo6 from './demo6.vue';
-import demo7 from './demo7.vue';
+// import demo2 from './demo2.vue';
+// import demo3 from './demo3.vue';
+// import demo4 from './demo4.vue';
+// import demo5 from './demo5.vue';
+// import demo6 from './demo6.vue';
+// import demo7 from './demo7.vue';
 
 </script>
 
@@ -22,7 +22,7 @@ import demo7 from './demo7.vue';
 </div>
 <Preview comp-name="alert" demo-name="demo1"></Preview>
 
-## 主题
+<!-- ## 主题
 #### Alert 组件提供了两个不同的主题：light和dark。通过设置effect属性来改变主题，默认为light
 <div class="source">
   <demo2/>
@@ -68,7 +68,7 @@ import demo7 from './demo7.vue';
   <demo7/>
 </div>
 <Preview comp-name="alert" demo-name="demo7"></Preview>
-
+ -->
 
 ## Attributes
 | 参数      | 说明          | 类型       | 可选值              | 默认值   |
