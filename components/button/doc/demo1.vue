@@ -1,6 +1,6 @@
 <template>
     <h-button>默认按钮</h-button>
-    <h-button type="success">成功按钮111</h-button>
+    <h-button type="success">成功按钮222</h-button>
     <h-button type="danger">危险按钮</h-button>
     <h-button type="info">信息按钮</h-button>
     <h-button type="warning">警告按钮</h-button>
