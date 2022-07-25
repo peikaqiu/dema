@@ -4,4 +4,4 @@ hAlert.install = (Vue) => {
   Vue.component(hAlert.name,hAlert)
 }
 
-export default hAlert;
+export default hAlert; 
