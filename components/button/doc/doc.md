@@ -15,7 +15,7 @@ import demo5 from './demo5.vue';
 
 ## 基本使用
 
-#### button 按钮的基本使用123
+#### button 按钮的基本使用
 
 <br/>
 <div class="source">
