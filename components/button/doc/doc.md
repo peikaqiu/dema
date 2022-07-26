@@ -1,11 +1,11 @@
-<!-- <script setup>
+<script setup>
 import demo1 from './demo1.vue';
 import demo2 from './demo2.vue';
 import demo3 from './demo3.vue';
 import demo4 from './demo4.vue';
 import demo5 from './demo5.vue';
 
-</script> -->
+</script>
 
 # Button 按钮
 
@@ -60,7 +60,7 @@ import demo5 from './demo5.vue';
 <div class="source">
   <demo5/>
 </div>
-<Preview comp-name="button" demo-name="demo5"></Preview> -->
+<Preview comp-name="button" demo-name="demo5"></Preview>
 
 ## Attributes 参数
 | 参数      | 说明    | 类型      | 可选值       | 默认值   |
@@ -74,4 +74,4 @@ import demo5 from './demo5.vue';
 | leftIcon  | 图标按钮，并且icon展示在左侧 | string   | 参考图标库 |  —  |
 | rightIcon  | 图标按钮，并且icon展示在右侧 | string   |  参考图标库  |  —  |
 
-<br/>
+<br/> -->
